@@ -1,4 +1,4 @@
-public class displacement{
+public class shortestPath{
 
     // This class calculates the displacement of a movement based on a string of directions.
 
